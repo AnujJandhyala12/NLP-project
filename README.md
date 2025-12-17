@@ -11,7 +11,7 @@ Perform error analysis for better understanding
 Steps to run locally: 
 Step1:
 
-git clone https://github.com/Akshay-1031/NLP-PROJECT
+git clone https://github.com/AnujJandhyala12/NLP-Project
 cd <NLP-PROJECT>
 
 
